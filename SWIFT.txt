@@ -1,0 +1,7 @@
+
+
+This document is create for learning Swift language 
+
+  Question 1. - What is Swift ?
+
+  Answer - Swift is a programing language for build macOS, tavOS, iOS, watchOS application. 
